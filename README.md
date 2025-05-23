@@ -24,7 +24,7 @@
 使用以下命令安裝專案所需的依賴套件：
 
 ```bash
-pip install -r requirements.txt
+pip install transformers pandas seqeval
 ```
 
 ## 2. 推論範例

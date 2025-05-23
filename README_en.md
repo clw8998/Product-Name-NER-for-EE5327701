@@ -19,7 +19,7 @@ It is recommended to install from [PyTorch Official Website](https://pytorch.org
 ### 1.2 Install dependencies
 
 ```bash
-pip install -r requirements.txt
+pip install transformers pandas seqeval
 ```
 
 ## 2. Usage & Inference Examples
